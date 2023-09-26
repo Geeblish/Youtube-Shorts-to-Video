@@ -6,6 +6,6 @@ I binge YouTube shorts a lot but sometimes I want to save that one short to the 
 
 Here's the code and all you need to do is drag it to the bookmark bar and you're all set:
 
-<javascript:!window.location.href.includes("shorts") ? console.error("Short not found") :window.open(window.location.href.replace('/shorts/','/watch?v='));>
+`javascript:!window.location.href.includes("shorts") ? console.error("Short not found") :window.open(window.location.href.replace('/shorts/','/watch?v='));`
 
 Try going to a short and test it yourself!
