@@ -9,3 +9,6 @@ Here's the code and all you need to do is drag it to the bookmark bar and you're
 `javascript:!window.location.href.includes("shorts") ? console.error("Short not found") :window.open(window.location.href.replace('/shorts/','/watch?v='));`
 
 Try going to a short and test it yourself!
+
+
+![brave_58SYwf7JWD](https://github.com/Geeblish/Youtube-Shorts-to-Video/assets/60635068/d772128a-3039-4d82-9120-cd71047c2449)
