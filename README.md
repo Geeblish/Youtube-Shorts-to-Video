@@ -10,5 +10,4 @@ Here's the code and all you need to do is drag it to the bookmark bar and you're
 
 Try going to a short and test it yourself!
 
-
-![brave_58SYwf7JWD](https://github.com/Geeblish/Youtube-Shorts-to-Video/assets/60635068/d772128a-3039-4d82-9120-cd71047c2449)
+![brave_3TG9cIYQrs](https://github.com/Geeblish/Youtube-Shorts-to-Video/assets/60635068/19fd7b4c-c658-4404-afd6-beda86ba1a6f)
